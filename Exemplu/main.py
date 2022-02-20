@@ -32,6 +32,7 @@ a = (1,2, 3,4,5]
 a.remove(4) 
 print(a)'''
 
+# Liste
 # a = [1,2,3,4,5]
 # print(len(a))
 # print(max(a))
@@ -53,3 +54,21 @@ print(a)'''
 # a = [1,2,3,4,5,4,4]
 # a[0] = 10
 # print(a)
+
+# Tupluri
+# tup1 = (1,2,3,4,5)
+# print(tup1[:])
+# print(tup1[:2])
+# print(tup1[2:])
+# tup1[0] = 10 # nu se modifica obiectele unui tuplu
+#
+# tup2 = (8,9,10)
+# tup3 = tup1 + tup2
+# print('Identificator tuplu 1: ', id(tup1))
+# print('Identificator tuplu 3: ', id(tup2))
+# print('Identificator tuplu 3: ', id(tup3))
+# print('Continut tuplu 3: ', tup3)
+# del tup2  # eliminarea tuplului
+# print(tup2)
+# tup4 = (8,7,-4,6)
+# print(tup4)
