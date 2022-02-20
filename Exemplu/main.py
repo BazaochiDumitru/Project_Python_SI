@@ -31,3 +31,25 @@ print(a)
 a = (1,2, 3,4,5] 
 a.remove(4) 
 print(a)'''
+
+# a = [1,2,3,4,5]
+# print(len(a))
+# print(max(a))
+# print(min(a))
+# a.remove(2)  # eliminarea obiectului de pe indexul specificat
+# print(a)
+# a.insert(3,8)  # inserarea obiectului pe indexul specificat
+# print(a)
+# a.append(-3)  # adaugarea unei valori in lista
+# print(a)
+# a.reverse()  # afisarea obiectelor invers
+# print(a)
+# a.sort()  # sortarea
+# print(a)
+# a.pop()  # eliminarea ultimului obiect
+# print(a)
+# x = a.count(4)
+# print(x)
+# a = [1,2,3,4,5,4,4]
+# a[0] = 10
+# print(a)
