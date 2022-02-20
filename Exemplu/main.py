@@ -72,3 +72,10 @@ print(a)'''
 # print(tup2)
 # tup4 = (8,7,-4,6)
 # print(tup4)
+
+
+# Tema de casa Dictionar Ex 7
+# inventar = {"scaune":33,"mese":22}
+# result = list(inventar.values())
+# print(f"Valoarea fiecarui element din inventar: {result}")
+# print(f"Suma elementelor din inventare este: {sum(result)}")
