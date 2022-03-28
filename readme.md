@@ -8,3 +8,4 @@
 + Added ML_Model
 + Added scrapping article from Jurnal.md in OutWit Hub
 + Added Laborator 4
++ Added Laborator 5
